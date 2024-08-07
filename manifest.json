@@ -2,6 +2,7 @@
     "name": "Calculaor",
     "short_name": "Calculaor",
     "description": "Progressive Web App that lists games submitted to the A-Frame category in the js13kGames 2017 competition.",
+    "display": "fullscreen",
     "icons": [
       {
         "src": "images/logo192.png",
